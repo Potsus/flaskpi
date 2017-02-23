@@ -1,0 +1,15 @@
+body{
+	background: #272822;
+	color: #6BD9ED;
+	font-family: arial;
+}
+
+body h1{
+	color: #F72672;
+}
+
+.main {
+	text-align: center;
+	margin: 10px;
+	border: 2px solid #DDDDDD;
+}
